@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Azure part
