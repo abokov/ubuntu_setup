@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Azure part )
+# Azure part ))
 sudo apt install azure-cli
 
 #Conda install ( note - will replace/install python 3.6  )
